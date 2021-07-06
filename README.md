@@ -1,2 +1,2 @@
-# Responsivelayout
+#PriceTableStarter
 Replica of Responsive Layout 
